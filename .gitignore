@@ -1,0 +1,43 @@
+
+node_modules
+local.json
+development.json
+production.json
+.env.development
+.env.production
+.env
+log
+mock-server
+marcel-web-auth
+
+
+
+# Visual Studio Code
+.vscode
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+msbuild.log
+msbuild.err
+msbuild.wrn
+
+
+# Visual Studio 2015
+.vs/
+*.pubxml
